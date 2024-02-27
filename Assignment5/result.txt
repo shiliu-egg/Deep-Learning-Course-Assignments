@@ -1,0 +1,258 @@
+Building prefix dict from the default dictionary ...
+[2024-02-06 04:32:46] - DEBUG: Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+[2024-02-06 04:32:46] - DEBUG: Loading model from cache /tmp/jieba.cache
+Loading model cost 0.934 seconds.
+[2024-02-06 04:32:47] - DEBUG: Loading model cost 0.934 seconds.
+Prefix dict has been built successfully.
+[2024-02-06 04:32:47] - DEBUG: Prefix dict has been built successfully.
+中文：我们所做的一切是残骸。
+翻译： What is all of the way . 
+英语：All we did locate was wreckage.
+
+
+中文：这种家务对扁桃体肌肉和肩部肌肉是很好的。
+翻译： The good is with a hip and bad luck . 
+英语：This chore is great for toning arms and shoulder muscles.
+
+
+中文：他们闻到火葬场里烧焦的人肉的气味。
+翻译： They smell wall birds . 
+英语：They smelled the... burning human flesh coming from the crematoria.
+
+
+中文：Conwy 县坠机事件中的2名妇女死亡。
+翻译： Two children are in court case two five officers crash cases two men driver cases
+英语：Woman dies, two injured in Conwy county crash
+
+
+中文：IIR
+翻译： Josh 
+英语：IR.
+
+
+中文：基克允许用户保持匿名。
+翻译： The will protect them . 
+英语：Kik allows users to remain anonymous.
+
+
+中文：自行车盗窃是开放式校园政策的头号牺牲品。
+翻译： The policy is a factor in the fund . 
+英语：Bike thefts are the number one casualty of open campus policy.
+
+
+中文：Rushcliffe
+翻译： Josh 
+英语：Rushcliffe
+
+
+中文：他是71岁。
+翻译： He . 
+英语：He was 71.
+
+
+中文：上面显示的是渲染它可能是什么样的东西。
+翻译： What looks . 
+英语：A rendering of what it may have looked like is shown above.
+
+
+中文：这种松露不能被分享。
+翻译： The can . 
+英语：The truffles could not be shared.
+
+
+中文：他在实地的才干应进一步探讨。
+翻译： He too during a ban . 
+英语：His talent for the field should be explored further.
+
+
+中文：唯一的选择
+翻译： The only 
+英语：The only choice
+
+
+中文：联合王国国防部
+翻译： The UK 
+英语：UK Ministry of Defence
+
+
+中文：作为支持球队这个赛季最积极的方面是什么?
+翻译： Is the team in the best ? 
+英语：As a supporter what has been the most positive aspect about your team this season?
+
+
+中文：医疗保险不包括救护车。
+翻译： The health or medical doctors were called . 
+英语：Ambulances are not covered by Medicare.
+
+
+中文：这幅画高于预期的售价3500万至5000万美元。
+翻译： The $ 70 million is over the year . 
+英语：The painting sold above its expected sale price of $35 million to $50 million.
+
+
+中文：房地产市场在所有年龄段都有优势。
+翻译： The most standard . 
+英语：The real estate mogul also has a commanding advantage across all age groups.
+
+
+中文：凯特·温斯林在金球奖和巴弗斯的比赛中赢得了最佳的支持。
+翻译： Kate and the black won for the award for the Danish nomination . 
+英语：Kate Winslet stands a strong chance of taking home best supporting actress after winning in the category both at the Golden Globes and the Baftas.
+
+
+中文：关于 Beyan 视频的争议
+翻译： Google 
+英语：Controversy over Beyonce video
+
+
+中文：什叶派的拉博夫是一个以艺术的名义进入电梯的人。
+翻译： The Nazi is a Catholic name in the Nazi statue . 
+英语：Shia LaBeouf is trapping himself inside an elevator in the name of art.
+
+
+中文：他们的研究提供了关于独立公投的一些令人着迷的信息和观察。
+翻译： They and new evidence from the various language . 
+英语：Their study offers some fascinating nuggets of information and observation about the independence referendum.
+
+
+中文：该协会将仇恨团体定义为攻击基于种族、性取向和宗教等核心特征的组织的组织。
+翻译： The includes religious , through background , background , the appeal of religious and religious movement to ban . 
+英语：The SPLC defines hate groups as organizations that attack people based on central characteristics such as race, sexual orientation and religion.
+
+
+中文：Bernat Mosgue / AP 照片
+翻译： Photo AP 
+英语：Bernat Armangue / AP Photo
+
+
+中文：巴拉克·奥巴马和家人在复活节
+翻译： Obama and 
+英语：Barack Obama and Family on Easter Sunday
+
+
+中文：这给我们造成了极大的不安。
+翻译： This deep us . 
+英语：It caused us a huge amount of concern.
+
+
+中文：20世纪80年代通过了一个由电话运营商和国家运营商控制的连接节点的封闭网络。
+翻译： The is owned by every owned owned by a group of the National between the company and the German company . 
+英语：Adopted in the 1980s as a closed network with connecting nodes controlled by phone carriers and national operators, SS7 directs mobile traffic from cellphone towers to the Internet.
+
+
+中文：我可以打子弹。
+翻译： I hit a hand . 
+英语：I can hit shots.
+
+
+中文：此举使消费者受益于标准的国内天然气关税。
+翻译： The protect water to supply consumers to supply prices . 
+英语：The moves benefit customers on a standard domestic gas tariff.
+
+
+中文：她是邪恶的化身!
+翻译： She is ! 
+英语：She is evil personified!
+
+
+中文：失去子女补助金的人数可能在五年内上升50%。
+翻译： The 50 children will be 50 to five per cent in their life . 
+英语：The number losing child benefit might rise by 50% within five years.
+
+
+中文：前妻子保罗·麦卡特尼的妻子希瑟·米尔斯和王菲的歌手汤姆·帕克被任命为顶替者。
+翻译： The wife Grace and former singer named singer , was named alongside wife John . 
+英语：Heather Mills, the former wife of Sir Paul McCartney, and The Wanted singer Tom Parker have been drafted in as replacements.
+
+
+中文：我的厨房画廊。
+翻译： My The library 
+英语：My kitchen gallery: Georgia Levy
+
+
+中文：有些人在压力过大或过度兴奋时往往会打嗝。
+翻译： Some often or angry . 
+英语：Some people tend to hiccup when stressed or overexcited.
+
+
+中文：凯特·厄普顿热气球升空
+翻译： Jennifer Maria 
+英语：Kate Upton Takes a Hot Air Balloon
+
+
+中文：上次比赛
+翻译： Last 
+英语：Last contest
+
+
+中文：她们有自己的背景和历史上的女性和女权运动。
+翻译： They and a character in other people . 
+英语：They have some kind of background and history of women and feminism.
+
+
+中文：她还在德黑兰度过了童年的一部分。
+翻译： She also during the Nazi World War II . 
+英语：She also spent part of her childhood in Tehran.
+
+
+中文：这一次没有男朋友。
+翻译： This never . 
+英语：No boyfriend this time around...
+
+
+中文：我们采取疟疾预防措施。
+翻译： We order . 
+英语：We take malaria prophylaxis.
+
+
+中文：388g 箱
+翻译： £ 15 
+英语：388g box
+
+
+中文：塞德里克·福特在工厂里杀害了三人
+翻译： Billy dead 
+英语：Cedric Ford killed three people at factory
+
+
+中文：你什么时候开始意识到人们觉得你很有趣?
+翻译： What you like when she was ? 
+英语：When did you begin to realise that people found you funny?
+
+
+中文：按新闻协会
+翻译： By Press 
+英语：By Press Association
+
+
+中文：由此产生的与美国的争吵已被莫斯科利用。
+翻译： The Latin in Russia . 
+英语：The resulting row with the US has been exploited by Moscow.
+
+
+中文：Coacin 4
+翻译： after 
+英语：Costac4
+
+
+中文：我们把这个家带到了加拿大。
+翻译： We . to Canada . 
+英语：We brought this home for Canada.
+
+
+中文：DNA 只是我们身体的另一个可能出错。
+翻译： It only a human can not . 
+英语：DNA is just another bit of our body that might go wrong.
+
+
+中文：没有人能相信。
+翻译： Nobody . 
+英语：Nobody could believe it.
+
+
+中文：虾髻
+翻译： Josh 
+英语：Prawn bun cha
+
+

@@ -1,0 +1,8 @@
+[2024-02-06 04:13:14] - DEBUG: Building prefix dict from the default dictionary ...
+[2024-02-06 04:13:14] - DEBUG: Loading model from cache /tmp/jieba.cache
+[2024-02-06 04:13:15] - DEBUG: Loading model cost 0.958 seconds.
+[2024-02-06 04:13:15] - DEBUG: Prefix dict has been built successfully.
+[2024-02-06 04:32:46] - DEBUG: Building prefix dict from the default dictionary ...
+[2024-02-06 04:32:46] - DEBUG: Loading model from cache /tmp/jieba.cache
+[2024-02-06 04:32:47] - DEBUG: Loading model cost 0.934 seconds.
+[2024-02-06 04:32:47] - DEBUG: Prefix dict has been built successfully.
